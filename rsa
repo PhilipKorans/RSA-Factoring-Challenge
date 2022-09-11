@@ -16,3 +16,4 @@ with open(argv[1]) as f:
                         break
                 print("{}*{}".format(factor, i))
                 break
+
